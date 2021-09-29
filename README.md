@@ -14,3 +14,10 @@ And add <code>vm.swappiness = 10 </code>at the very end of this file:<br>
 Sert a Changer de DE
 - - -
 
+#TODO
+* rofi
+* window manager
+* polybar
+* terminal kitty
+* zsh ohmyzsh
+* 
